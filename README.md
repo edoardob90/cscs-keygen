@@ -111,3 +111,6 @@ poetry run pytest
 poetry run ruff check .
 poetry run ruff format .
 ```
+
+## TODO
+- [ ] Add support for KeepassXC via the official CLI
